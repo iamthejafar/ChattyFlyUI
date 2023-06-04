@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "429400402225",
+    "project_id": "chattyfly-6070a",
+    "storage_bucket": "chattyfly-6070a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429400402225:android:f693a5f1132ac28118a810",
+        "android_client_info": {
+          "package_name": "com.example.chattyfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429400402225-2n5ss285iaejap7qseat0ippjhlchs0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattyfly",
+            "certificate_hash": "33cff4f10eb3702ec46e4accdd9d778cd1376272"
+          }
+        },
+        {
+          "client_id": "429400402225-8tmpr3qqnlc2adat4cv4ijna4p8vqk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0uLCx6TyB2oDeoh9Sh9SyfIURmQqWrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429400402225-8tmpr3qqnlc2adat4cv4ijna4p8vqk7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
